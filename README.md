@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=CodeShark37&color=brightgreen) ![Followers](https://img.shields.io/github/followers/CodeShark37)
 <br/>
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)![Beecrowd](<img src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd-CodeShark37" height="40" width="40" />)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeShark37&hide_progress=true)](https://github.com/CodeShark37/github-readme-stats)-->
 
 ### Languages and Tools 
