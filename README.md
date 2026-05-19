@@ -2,7 +2,7 @@
 
 ### A passionate C developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeShark37&color=brightgreen alt="ProfileViews" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeShark37&color=brightgreen" alt="ProfileViews" /> </p>
 
 - 👯 I'm looking to collaborate on **Low level, Parsers, Compilers, VMs, CLI tools**
 
@@ -18,7 +18,7 @@
 
 <p><img align="left" src="./profile/top-langs.svg" alt="Top-Langs" /></p>
 
-<p>&nbsp;<img align="center" src="./profile/stats" alt="Stats" /></p>
+<p>&nbsp;<img align="center" src="./profile/stats.svg" alt="Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeShark37&" alt="CodeShark37" /></p>
 
