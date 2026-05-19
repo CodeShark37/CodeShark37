@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CodeShark37&color=brightgreen" alt="ProfileViews" /> </p>
 
-- 👯 I'm looking to collaborate on **Low level, Parsers, Compilers, VMs, CLI tools**
+- I'm looking to collaborate on **Low level, Parsers, Compilers, VMs, CLI tools**
 
 - 📫 How to reach me **labprogramming7@gmail.com**
 
