@@ -18,7 +18,5 @@
 
 <p><img align="left" src="./profile/top-langs.svg" alt="Top-Langs" /></p>
 
-<p>&nbsp;<img align="center" src="./profile/stats.svg" alt="Stats" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeShark37&" alt="CodeShark37" /></p>
 
